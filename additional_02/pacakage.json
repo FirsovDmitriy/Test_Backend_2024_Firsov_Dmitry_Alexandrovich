@@ -1,0 +1,5 @@
+{
+  "type": "module",
+  "name": "node-app",
+  "main": "index.js"
+}

@@ -1,0 +1,1 @@
+Sets are unordered collections of objects. In kindergarten terms: say we have two apples aka objects (let's call them ivan and bob, shall we?), and some bags aka sets where we can put the apples. We can make, in total, 4 apple sets:
