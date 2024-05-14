@@ -7,6 +7,3 @@ function maxSumOfTwoNumbers(arr) {
   
   return arr[0] + arr[1];
 }
-
-const foo = maxSumOfTwoNumbers([2, 7, 4, 1, 8])
-console.log('maxSum', foo)
