@@ -17,5 +17,5 @@ function isValid(str) {
       }
   }
   
-  return stack.length === 0;
+  return stack.length === 0
 }

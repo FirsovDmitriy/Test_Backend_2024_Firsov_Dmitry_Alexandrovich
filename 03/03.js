@@ -1,4 +1,4 @@
-function maxSumOfTwoNumbers(arr) {
+function maxSum(arr) {
   if (arr.length < 2) {
       return undefined;
   }
